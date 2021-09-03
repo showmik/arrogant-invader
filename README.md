@@ -1,4 +1,4 @@
-# :space_invader: Arrogant Invader :rocket:
+# :space_invader: Arrogant Invader <(￣＾￣)> :rocket:
 
 **Arrogant Invader** is my own version of the game *[Space Invaders](https://en.wikipedia.org/wiki/Space_Invaders)*
 
