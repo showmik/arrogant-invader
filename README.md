@@ -2,7 +2,7 @@
 
 **Arrogant Invader** is my own version of the game *[Space Invaders](https://en.wikipedia.org/wiki/Space_Invaders)*
 
-This game was made for learning purposes along with few other clones – **[Tetris]()** and the **[Crashy FO]()**.
+This game was made for learning purposes along with few other clones – **[Tetris Drift](https://github.com/showmik/tetris-drift)** and the **[Crashy FO](https://github.com/showmik/crashy-fo)**.
 
 # Screenshots
 
